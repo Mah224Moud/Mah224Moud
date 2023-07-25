@@ -26,7 +26,7 @@ I am constantly seeking new opportunities to deepen my skills and learn about em
 <div>
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Mah224Moud&show_icons=true&locale=en&count_private=true&theme=dark" alt="mah224moud" />
   
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=mah224moud&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&card_width=450" alt="mah224moud" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=mah224moud&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&card_width=400" alt="mah224moud" />
   
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mah224moud&card_width=700&theme=dark" alt="mah224moud" />
 </div>
