@@ -18,7 +18,7 @@ I am constantly seeking new opportunities to deepen my skills and learn about em
 
 ### 🌐 Socials:
 <a href="https://linkedin.com/in/mamoudou-diallo-528020199">
-   <img height=50 width=50 title="LnkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+   <img height=50 width=50 title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 ### 💻 Tech Stack:
