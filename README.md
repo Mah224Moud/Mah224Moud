@@ -3,7 +3,7 @@
 I am a computer science student passionate about creating innovative applications that enhance users' lives.
 Throughout my journey, I have worked on a variety of school and personal projects, ranging from creating a learning website to developing advanced Android and desktop commerce management applications.
 
-These diverse projects have allowed me to learn, improve, and acquire skills as a developer in several programming languages such as `Java`, `Php`, `Python`, as well as frameworks and libraries like `Swing`, `Qt`, and `Bootstrap`.
+These diverse projects have allowed me to learn, improve, and acquire skills as a developer in several programming languages such as `Java`, `Php`, `Python`, as well as frameworks and libraries like `Android`, `Swing`, `Qt`, and `Bootstrap` with many more to come 😉.
 
 I am constantly seeking new opportunities to deepen my skills and learn about emerging technologies. My goal is to create innovative applications that meet users' needs and enhance their experience. </p>
 
