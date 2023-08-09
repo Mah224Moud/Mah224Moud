@@ -9,7 +9,7 @@ I am constantly seeking new opportunities to deepen my skills and learn about em
 
 ### 💫 About Me:
 🔭 I’m currently working on Android project<br>🌱 I’m currently learning React and Angular<br>
-- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio.bratif.com/)
+- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio.bratif.com/) [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#0a8a16)](https://blog.bratif.com/)
 
 - 💬 Ask me about ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - 📫 How to reach me: **mamoudoudiallo2397@gmail.com**
