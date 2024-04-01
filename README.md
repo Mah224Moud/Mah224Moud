@@ -8,7 +8,7 @@ These diverse projects have allowed me to learn, improve, and acquire skills as 
 I am constantly seeking new opportunities to deepen my skills and learn about emerging technologies. My goal is to create innovative applications that meet users' needs and enhance their experience. </p>
 
 ### 💫 About Me:
-🔭 I’m currently working on Android project<br>🌱 I’m currently learning React and Angular<br>
+🔭 I’m currently working on `Android` and `Symfony` projects<br>🌱 I’m currently learning `Symfony`<br>
 - 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio.bratif.com/) [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#0a8a16)](https://blog.bratif.com/)
 
 - 💬 Ask me about ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -71,6 +71,8 @@ I am constantly seeking new opportunities to deepen my skills and learn about em
     <img height=50 width=50 title="Qt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
     <img height=50 width=50 title="Bootstrap"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+   <img height=50 width=50 title="Symfony"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
 </div>
 
 #### Databases
