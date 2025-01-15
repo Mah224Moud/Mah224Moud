@@ -1,14 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Mamoudou DIALLO</h1>
 <p align="center"> 
-I am a computer science student passionate about creating innovative applications that enhance users' lives.
-Throughout my journey, I have worked on a variety of school and personal projects, ranging from creating a learning website to developing advanced Android and desktop commerce management applications.
+I am a computer science student passionate about creating innovative applications and leveraging data to solve real-world problems.
 
-These diverse projects have allowed me to learn, improve, and acquire skills as a developer in several programming languages such as `Java`, `Php`, `Python`, as well as frameworks and libraries like `Android`, `Swing`, `Qt`, and `Bootstrap` with many more to come 😉.
+Throughout my journey, I have worked on diverse school and personal projects, from building educational websites to developing advanced Android and desktop commerce management applications.
+These experiences have allowed me to acquire and sharpen my skills in programming languages such as `Python`, `Java`, and `PHP`, as well as in frameworks and libraries like `Android`, `Spring Boot`, `Symfonfy`, and others.
 
-I am constantly seeking new opportunities to deepen my skills and learn about emerging technologies. My goal is to create innovative applications that meet users' needs and enhance their experience. </p>
+More recently, I have been focusing on `data-related` projects, utilizing tools such as `Power BI`, `Talend`, and `Pandas` for `ETL` (Extract, Transform, Load) processes and data cleaning. I also work with APIs and libraries like `requests` to streamline data integration workflows.
+
 
 ### 💫 About Me:
-🔭 I’m currently working on `Android` and `Symfony` projects<br>🌱 I’m currently learning `Symfony`<br>
+
+🔭 I’m currently working on `data analytics` projects, with a focus on `Power BI` and `Talend` <br>
+🌱 I’m currently deepening my knowledge in `data analysis`, advanced `Python` for `ETL processes` and solving problems on `LeetCode` to sharpen my algorithmic skills.
+
+I am driven by a desire to create impactful applications and solutions that address users' needs, whether through intuitive designs or optimized data workflows. My goal is to continue learning and innovating in both development and data-driven fields.
 - 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio.bratif.com/) [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#0a8a16)](https://blog.bratif.com/)
 
 - 💬 Ask me about ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
